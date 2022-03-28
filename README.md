@@ -1,6 +1,6 @@
 # EF-SAI
 
-[EF-SAI Dataset](https://github.com/smjsc/EF-SAI#Dataset) | [Pre-trained Models](https://drive.google.com/drive/folders/1lcATVc_U7plyEI__j5NWKCmKV_MNuhwq?usp=sharing) | 
+[EF-SAI Dataset](https://github.com/smjsc/EF-SAI#Dataset) | [Pre-trained Models](https://1drv.ms/u/s!AhglJgt1Cr16pXzr5N4RlkvYgzDe?e=Ar21Gw) | 
 
 **Synthetic Aperture Imaging with Events and Frames**<br>
 
@@ -20,12 +20,11 @@ The EF-SAI dataset is used for model training and evaluation. It can be download
 2.Install PyTorch and dependencies from [http://pytorch.org](http://pytorch.org)
 3.Install required python packages
 ### Preparations:
-1.Download validation data from [Onedrive]() or [Aliyundrive][] to Val_data folder
+1.Download validation data from [Onedrive](https://1drv.ms/u/s!AhglJgt1Cr16pXpFl2DBfDe98pkh?e=AMonte) or [Aliyundrive][] to Val_data folder
 2.Download pre-trained model to Pretrained folder
 ### Testing
 Run testing script
 ```
-python test.py \
-
+python test.py 
 ```
 The results will stored in the Results folder.
