@@ -16,9 +16,9 @@ The EF-SAI dataset is used for model training and evaluation. It can be download
      numpy, opencv, timm, matlpotlib, prefetch_generator
 ## Code Implementation
 ### Installation
-1.Clone this repo
-2.Install PyTorch and dependencies from [http://pytorch.org](http://pytorch.org)
-3.Install required python packages
+1. Clone this repo
+2. Install PyTorch and dependencies from [http://pytorch.org](http://pytorch.org)
+3. Install required python packages
 ### Preparations:
 1.Download validation data from [Onedrive](https://1drv.ms/u/s!AhglJgt1Cr16pXpFl2DBfDe98pkh?e=AMonte) or [Aliyundrive][] to Val_data folder
 2.Download pre-trained model from [Onedrive](https://1drv.ms/u/s!AhglJgt1Cr16pXzr5N4RlkvYgzDe?e=Ar21Gw) or [Aliyundrive][] to Pretrained folder
