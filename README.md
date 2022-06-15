@@ -1,6 +1,6 @@
 # EF-SAI
 
-Paper | [EF-SAI Dataset](https://github.com/smjsc/EF-SAI#Dataset) | [Pre-trained Models](https://1drv.ms/u/s!AhglJgt1Cr16pXzr5N4RlkvYgzDe?e=Ar21Gw) | BibTex
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Liao_Synthetic_Aperture_Imaging_With_Events_and_Frames_CVPR_2022_paper.html) | [EF-SAI Dataset](https://github.com/smjsc/EF-SAI#Dataset) | [Pre-trained Models](https://1drv.ms/u/s!AhglJgt1Cr16pXzr5N4RlkvYgzDe?e=Ar21Gw)
 
 **Synthetic Aperture Imaging with Events and Frames**<br>
 
